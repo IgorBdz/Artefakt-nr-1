@@ -1,4 +1,4 @@
-1. Projekt obejmuje pełny cykl wdrażania automatyzacji testów mobilnych, od konfiguracji środowiska po wdrożenie potoku CI/CD.
+Projekt obejmuje pełny cykl wdrażania automatyzacji testów mobilnych, od konfiguracji środowiska po wdrożenie potoku CI/CD.
 
 Blok 01: Środowisko i struktura
 Konfiguracja podstawowych narzędzi (Python, Git, Podman/Docker). Przygotowanie struktury katalogów projektu i inicjalizacja repozytorium.
